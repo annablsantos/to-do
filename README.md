@@ -1,3 +1,3 @@
-# TO-DO LIST APP
+<h1> Agenda de To Do</h1>
 
-- Projeto feito para começar meus estudos em React.
+- Projeto feito para aprimorar meus estudos em React.
